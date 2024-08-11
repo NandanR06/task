@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(154, 155, 156);
+}
+.main{
+    color: red;
+    font-size: 30px;
+    padding-left: 700px;
+}
+img{
+    padding-left:600px ;
+}
+.main3{
+    padding-left: 680px;
+}
+.main2{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main2 p a{
+    
+    
+}

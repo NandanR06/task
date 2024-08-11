@@ -1,0 +1,15 @@
+.contain{
+   height: 50vh;
+   background-color: aqua;
+   width: 100%; 
+}
+.main{
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:200px;
+    image-orientation: 25deg;
+}
+img{
+    height: 50vh;
+    width:200px;
+}

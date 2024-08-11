@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bacImg{
+    background-image:url("digital-technology-software-development-concept-260nw-2111828198.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:30vh;
+    font-size: 4rem;
+    font-weight: 1000;
+    color:whitesmoke;
+    /* -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: transparent; */
+
+}
+#btn{
+    margin-left: 45rem;
+    margin-top: 30px;
+    background-color: rgb(211, 197, 197);
+    border-radius: 5px;
+    width:90px;
+}

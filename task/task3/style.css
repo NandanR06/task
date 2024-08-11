@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    background-color: rgb(226, 209, 209);
+    height: 100px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+div {
+    font-size: 31px;
+    font-family: math;
+    font-weight: 300;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    border: 0px solid pink;
+    border-radius: 50px;
+    border-width: 5px;
+}
